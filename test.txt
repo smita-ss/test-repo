@@ -5,5 +5,8 @@ commit 4
 commit 5
 
 
+
+commit 1 after new branch created
+
 commit 1 on branch 1
 commit 2 on branch 1
